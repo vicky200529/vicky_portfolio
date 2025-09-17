@@ -42,7 +42,7 @@ const Contact = () => {
                     <Mail className="w-5 h-5 text-primary-foreground" />
                   </div>
                   <div>
-                    <h4 className="font-medium">Email</h4>
+                    <h4 className="font-medium">Gmail</h4>
                     <p className="text-muted-foreground">rajnayek2005@gmail.com</p>
                   </div>
                 </CardContent>
@@ -55,7 +55,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-medium">Location</h4>
-                    <p className="text-muted-foreground">India</p>
+                    <p className="text-muted-foreground">AGARPARA,KOLKATA,INDIA</p>
                   </div>
                 </CardContent>
               </Card>
