@@ -7,28 +7,27 @@ const Skills = () => {
       title: "Frontend",
       skills: [
         "React", "Next.js", "TypeScript", "JavaScript", "HTML5", "CSS3",
-        "Tailwind CSS", "Bootstrap", "Sass", "Redux", "Vue.js"
+        "Tailwind CSS","Sass", "Redux", "Vue.js"
       ]
     },
     {
       title: "Backend", 
       skills: [
         "Node.js", "Express.js", "MongoDB", "PostgreSQL", "MySQL",
-        "REST APIs", "GraphQL", "JWT", "Mongoose", "Sequelize"
+        "REST APIs", "GraphQL", "JWT", "Mongoose",
       ]
     },
     {
       title: "Tools & Technologies",
       skills: [
-        "Git", "GitHub", "Docker", "AWS", "Vercel", "Netlify",
-        "Postman", "VSCode", "Linux", "npm", "Webpack", "Vite"
+        "Git", "GitHub", "Docker", "VSCode", "Linux", "npm"
       ]
     },
     {
       title: "Other Skills",
       skills: [
         "Responsive Design", "SEO", "Performance Optimization", 
-        "Testing", "Agile", "Problem Solving", "Team Collaboration"
+        "Testing","Problem Solving", "Team Collaboration"
       ]
     }
   ];

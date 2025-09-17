@@ -26,7 +26,7 @@ const Footer = () => {
           
           <div className="border-t border-border pt-6">
             <p className="text-muted-foreground flex items-center justify-center gap-2">
-              Made with <Heart className="w-4 h-4 text-red-500 animate-pulse" /> by Rajdeep Nayek
+              ~ by Rajdeep Nayek
             </p>
             <p className="text-sm text-muted-foreground mt-2">
               © 2025 Rajdeep Nayek. All rights reserved.
