@@ -32,7 +32,7 @@ const Hero = () => {
               <Mail className="w-5 h-5" />
               Get In Touch
             </Button>
-            <Button variant="glow" size="lg" className="animate-float" style={{ animationDelay: '1s' }}>
+            <Button variant="glow" size="lg" className="animate-float" >
               <Download className="w-5 h-5" />
               Download Resume
             </Button>
