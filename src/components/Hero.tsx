@@ -28,7 +28,7 @@ const Hero = () => {
           
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
-            <Button variant="hero" size="lg" className="animate-float">
+            <Button variant="hero" size="lg" className="">
               <Mail className="w-5 h-5" />
               Get In Touch
             </Button>
