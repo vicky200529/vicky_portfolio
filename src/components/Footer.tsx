@@ -29,7 +29,7 @@ const Footer = () => {
               Made with <Heart className="w-4 h-4 text-red-500 animate-pulse" /> by Rajdeep Nayek
             </p>
             <p className="text-sm text-muted-foreground mt-2">
-              © 2024 Rajdeep Nayek. All rights reserved.
+              © 2025 Rajdeep Nayek. All rights reserved.
             </p>
           </div>
         </div>
