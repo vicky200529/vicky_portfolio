@@ -28,10 +28,18 @@ const Hero = () => {
           
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
+             <a 
+              href="https://mail.google.com/mail/u/1/#inbox?compose=new" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="transform transition-all duration-300 hover:scale-110"
+            >
             <Button variant="hero" size="lg" className="">
               <Mail className="w-5 h-5" />
               Get In Touch
             </Button>
+               </a>
+            
             <Button variant="glow" size="lg" className="animate-float" >
               <Download className="w-5 h-5" />
               Download Resume
