@@ -27,7 +27,7 @@ const Skills = () => {
       title: "Other Skills",
       skills: [
         "Responsive Design", "SEO", "Performance Optimization", 
-        "Testing","Problem Solving", "Team Collaboration"
+        "Testing","Problem Solving", "Team Collaboration","System Design"
       ]
     }
   ];
