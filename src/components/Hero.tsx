@@ -39,11 +39,17 @@ const Hero = () => {
               Get In Touch
             </Button>
                </a>
-            
+            <a
+              href="https://drive.google.com/file/d/19iyTw97wUiIsHTgHqPSwk6jf2adqgaTr/view" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="transform transition-all duration-300 hover:scale-110"
+              >
             <Button variant="glow" size="lg" className="animate-float" >
               <Download className="w-5 h-5" />
               Download Resume
             </Button>
+              </a>
           </div>
           
           {/* Social Links */}
